@@ -1,14 +1,18 @@
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+    <!-- トップページ -->
     <url>
         <loc>https://toukylab.github.io/BaseballWeb/</loc>
     </url>
 
+    <!-- 記事一覧 -->
     <url>
         <loc>https://toukylab.github.io/BaseballWeb/articles/articles.html</loc>
     </url>
 
+    <!-- 基本記事 -->
     <url>
         <loc>https://toukylab.github.io/BaseballWeb/articles/pitching-training.html</loc>
     </url>
@@ -33,6 +37,32 @@
         <loc>https://toukylab.github.io/BaseballWeb/articles/velocity-muscles.html</loc>
     </url>
 
+    <!-- 新しい記事 -->
+    <url>
+        <loc>https://toukylab.github.io/BaseballWeb/articles/training-tube.html</loc>
+    </url>
+
+    <url>
+        <loc>https://toukylab.github.io/BaseballWeb/articles/pitcher-home-training.html</loc>
+    </url>
+
+    <url>
+        <loc>https://toukylab.github.io/BaseballWeb/articles/pitching-video-analysis.html</loc>
+    </url>
+
+    <url>
+        <loc>https://toukylab.github.io/BaseballWeb/articles/pitcher-game-warmup.html</loc>
+    </url>
+
+    <url>
+        <loc>https://toukylab.github.io/BaseballWeb/articles/core-training.html</loc>
+    </url>
+
+    <url>
+        <loc>https://toukylab.github.io/BaseballWeb/articles/fatigue-management.html</loc>
+    </url>
+
+    <!-- サイト情報 -->
     <url>
         <loc>https://toukylab.github.io/BaseballWeb/operator.html</loc>
     </url>
@@ -50,3 +80,4 @@
     </url>
 
 </urlset>
+```
